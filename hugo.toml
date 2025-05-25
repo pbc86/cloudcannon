@@ -4,3 +4,8 @@ title = 'Cau Hugo Site'
 
 [params]
 name = 'Simba'
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
