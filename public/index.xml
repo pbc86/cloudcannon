@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Cau Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Cau Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I like to roar</title>
+      <link>http://localhost:1313/posts/2025-05-24-i-like-to-roar/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-24-i-like-to-roar/</guid>
+      <description>&lt;p&gt;Hi, quick update from me. I just want to let everyone know that I like roaring.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Today I Made Friends</title>
+      <link>http://localhost:1313/posts/2025-05-23-today-i-made-friends/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-23-today-i-made-friends/</guid>
+      <description>&lt;p&gt;I got lost in the woods today. Two friends, a Meerkat and a Warthog, found me, sung a song with me and gave my life new meaning. Today was a good day.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Github roaring</title>
+      <link>http://localhost:1313/posts/2025-05-21-github-quick-setup/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-21-github-quick-setup/</guid>
+      <description>&lt;p&gt;Quick setup.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vegan Experiment</title>
+      <link>http://localhost:1313/posts/2025-05-20-vegan-experiment/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-20-vegan-experiment/</guid>
+      <description>&lt;p&gt;I tried to become a vegan today.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m learning Hugo, one step at a time.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;about.md&lt;/code&gt; looks for a layout named &lt;code&gt;single.html&lt;/code&gt; by default.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
