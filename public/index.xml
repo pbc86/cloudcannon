@@ -6,8 +6,15 @@
     <description>Recent content in Home on Cau Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 18:52:45 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/cloudcannon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Cannon Tutorial #6</title>
+      <link>http://localhost:1313/cloudcannon/posts/2025-06-15-cloud-cannon-tutorial-6/</link>
+      <pubDate>Sun, 15 Jun 2025 18:52:45 +0300</pubDate>
+      <guid>http://localhost:1313/cloudcannon/posts/2025-06-15-cloud-cannon-tutorial-6/</guid>
+      <description>&lt;h3 id=&#34;why-map-doesnt-show&#34;&gt;Why map doesn&amp;rsquo;t show?&lt;/h3&gt;&#xA;&lt;p&gt;It turns out that it doesn&amp;rsquo;t work without the two dot &lt;code&gt;..&lt;/code&gt; in front of &lt;code&gt;/map.js&lt;/code&gt; in &lt;code&gt;/layouts/shortcodes/vacation_spots.html&lt;/code&gt;!&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-there-is-no-spaces-between-words-on-nav-bar&#34;&gt;Why there is no spaces between words on Nav bar?&lt;/h3&gt;&#xA;&lt;p&gt;Need to decipher two things:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;em&gt;Minifying&lt;/em&gt;: what is it? What would happen if line 70 is commented out?&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;HTML is for content. CSS is for styling. You should use CSS to add horizontal spacing&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>I like to roar</title>
       <link>http://localhost:1313/cloudcannon/posts/2025-05-24-i-like-to-roar/</link>

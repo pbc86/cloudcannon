@@ -1,5 +1,7 @@
 body {
-  width: 600px;
+  // width: 600px;
+  max-width: 1200px;
+  padding-left: 20px;
   margin: 0 auto;
   font-family: sans-serif;
 }
@@ -31,5 +33,5 @@ footer {
 }
 
 #map {
-  height: 300px;
+  height: 600px;
 }
