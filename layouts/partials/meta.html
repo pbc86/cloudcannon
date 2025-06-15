@@ -1,5 +1,10 @@
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Site.title | .Params.title }}</title>
+    <!-- <title>{{ .Params.title }} | {{ .Site.title }}</title> -->
+    {{ if isset .Params "title" }}
+        <title>{{ .Params.title }}</title>
+    {{ else }}
+        <title>{{ .Site.title }}</title>
+    {{ end }}
     {{ $style := resources.Get "sass/main.scss" | css.Sass | resources.Minify }}
 <link rel="stylesheet" href="{{ $style.Permalink }}">

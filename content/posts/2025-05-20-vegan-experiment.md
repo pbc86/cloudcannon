@@ -1,5 +1,5 @@
 ---
-title: Vegan Experiment
+title: 'Vegan Experiment'
 date: 2025-05-20
 ---
 
