@@ -1,15 +1,27 @@
-- name: Masai Mara National Reserve
-  latitude: -1.484751
-  longitude: 35.101904
-- name: Serengeti National Park
-  latitude: -2.333333
-  longitude: 34.833332
-- name: Okavango Delta
-  latitude: -19.304543
-  longitude: 22.643703
-- name: Etosha National Park
-  latitude: -18.855591
-  longitude: 16.32932
-- name: Kidepo Valley Park
-  latitude: 3.882778
-  longitude: 33.874444
+- name: Ljubljana,Slovenia
+  latitude: 46.0662102
+  longitude: 14.4496978
+
+- name: Solčava, Slovenia
+  latitude: 46.4179855
+  longitude: 14.6826169
+
+- name: Zagreb, Croatia
+  latitude: 45.8427451
+  longitude: 15.8819641
+
+- name: Napoleon's Bridge
+  latitude: 46.2081872
+  longitude: 14.7322642
+
+- name: Trogir, Croatia
+  latitude: 43.5278188
+  longitude: 16.2383224
+
+- name: Split,+Croatia
+  latitude: 43.5146451
+  longitude: 16.4178879
+
+- name: Budapest,+Hungary
+  latitude: 47.4810954
+  longitude: 18.9654986
