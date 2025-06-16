@@ -1,4 +1,4 @@
-- name: Ljubljana,Slovenia
+- name: Ljubljana, Slovenia
   latitude: 46.0662102
   longitude: 14.4496978
 
@@ -10,7 +10,7 @@
   latitude: 45.8427451
   longitude: 15.8819641
 
-- name: Napoleon's Bridge
+- name: Napoleon's Bridge, Slovenia
   latitude: 46.2081872
   longitude: 14.7322642
 
@@ -18,10 +18,14 @@
   latitude: 43.5278188
   longitude: 16.2383224
 
-- name: Split,+Croatia
+- name: Split, Croatia
   latitude: 43.5146451
   longitude: 16.4178879
 
-- name: Budapest,+Hungary
+- name: Budapest, Hungary
   latitude: 47.4810954
   longitude: 18.9654986
+
+- name: Zadar, Croatia
+  latitude: 44.1360458
+  longitude: 15.2077286
