@@ -29,3 +29,11 @@
 - name: Zadar, Croatia
   latitude: 44.1360458
   longitude: 15.2077286
+
+- name: Plitvice National Park, Croatia
+  latitude: 44.880504
+  longitude: 15.6086493
+
+- name: Soča, Slovenia
+  latitude: 46.0714778
+  longitude: 13.4843651
