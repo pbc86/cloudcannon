@@ -1,5 +1,5 @@
 ---
-title: About
+title: Cau
 hide_footer: false
 ---
 
@@ -9,4 +9,4 @@ I'm learning Hugo, one step at a time.
 
 ### These are my favorite vacation spots in 2025
 
-{{< vacation_spots >}}
+{{< cau >}}
