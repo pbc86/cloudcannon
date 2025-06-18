@@ -41,7 +41,7 @@
       <link>http://localhost:1313/cloudcannon/posts/2025-05-21-cau-is-a-fat-cat/</link>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cloudcannon/posts/2025-05-21-cau-is-a-fat-cat/</guid>
-      <description>&lt;p&gt;Quick setup.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cloudcannon/cau.jpeg&#34; alt=&#34;/cau&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;./cau.jpeg&#34; alt=&#34;./cau&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;./cau.jpeg&#34; alt=&#34;../cau&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;static/cau.jpeg&#34; alt=&#34;static/cau&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;./static/cau.jpeg&#34; alt=&#34;./static/cau&#34;&gt;&lt;br&gt;&#xA;&lt;img src=&#34;./static/cau.jpeg&#34; alt=&#34;../static/cau&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Quick try adding an image of Cau, the fat cat.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cloudcannon/images/cau.jpeg&#34; alt=&#34;cau&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
